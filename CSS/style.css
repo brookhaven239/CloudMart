@@ -1,0 +1,31 @@
+form{
+  background-color: aqua;
+width: 40%;
+    padding: 30px;
+    margin: 0 auto;
+    box-shadow: 12px 12px 12px gray;
+}
+legend{
+   font-weight: bold;
+    text-align: center;
+    text-shadow: 4px 4px 5px greenyellow;
+    color: crimson;
+
+}
+
+input[type=text],input[type=email],input[type=password],input[type=tel] ,select,input[type=number] {
+ width: 100%;
+    height: 40px;
+border-radius: 10px;
+    border: none;
+    margin-top: 20px;
+    box-shadow: 12px 12px 12px #e32323;
+}
+button{
+    background-color: greenyellow;
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+
+}
+
